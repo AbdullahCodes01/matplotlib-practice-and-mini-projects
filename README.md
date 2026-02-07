@@ -4,7 +4,7 @@ This repository contains my learning journey of Matplotlib, where I am focusing 
 
 This repository is part of my Data Science learning roadmap.
 
-#  What I Am Learning Here
+# 📚 What I Am Learning Here
 
 ✔ Plot Basics (Line, Bar, Scatter, Histogram)
 ✔ Subplots and Multiple Plots
@@ -16,8 +16,11 @@ This repository is part of my Data Science learning roadmap.
 # 🛠 Tech Stack
 
 Python
+
 Matplotlib
+
 NumPy
+
 Pandas
 
 # Purpose of This Repository
